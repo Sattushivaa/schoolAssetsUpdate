@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    user-select: none;
+}
+
+#arena {
+    background-color: antiquewhite;
+    margin: 20px;
+}
+
+#main {
+    width: 350px;
+    padding: 0px;
+}
+.part {
+    display: inline-block;
+    width: 100px;
+    margin: 0px;
+    height: 100px;
+    background: url(puzzle.jpg);
+    background-size: 300px 300px;
+    position: fixed;
+    border: none;
+}
+
+.placement {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+}
