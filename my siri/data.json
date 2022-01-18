@@ -1,0 +1,6 @@
+{
+    "questions" : [{
+        "question" : "how are you",
+        "answers" : [ "fine" , "good, what about you" ]
+    }]
+}
